@@ -419,7 +419,7 @@ button {
 }
 
 .product-image {
-    height: 280px;
+    height: 520px;
     overflow: hidden;
     position: relative;
 }
@@ -768,7 +768,7 @@ button {
     }
 
     .product-image {
-        height: 210px;
+        height: 280px;
     }
 
     .product-info {
@@ -833,7 +833,7 @@ button {
     }
 
     .product-image {
-        height: 280px;
+        height: 460px;
     }
 
     .product-bottom {
